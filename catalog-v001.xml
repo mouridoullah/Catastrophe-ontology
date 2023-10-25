@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl" uri="bfo.rdf"/>
+    <uri id="User Entered Import Resolution" name="http://www.semanticweb.org/mandiaye/ontologies/2023/7/CatastropheV2/" uri="file6.rdf"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://purl.obolibrary.org/obo/bfo.owl" uri="bfo_classes_only_latest.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://purl.obolibrary.org/obo/doid/doid-non-classified.owl" uri="DO.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://purl.obolibrary.org/obo/ero.owl" uri="ERO.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.obofoundry.org/ro/ro.owl" uri="ro.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/AgentOntology" uri="AgentOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/AllCoreOntology" uri="AllCoreOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/ArtifactOntology" uri="ArtifactOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/CurrencyUnitOntology" uri="CurrencyUnitOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/EventOntology" uri="EventOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/GeospatialOntology" uri="GeospatialOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/InformationEntityOntology" uri="InformationEntityOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/QualityOntology" uri="QualityOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/TimeOntology" uri="TimeOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Mid/UnitsOfMeasureOntology" uri="UnitsOfMeasureOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.ontologylibrary.mil/CommonCore/Upper/ExtendedRelationOntology" uri="ExtendedRelationOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.semanticweb.org/linda/ontologies/2019/4/Firefighters" uri="Firefighters.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="duplicate:http://www.semanticweb.org/mandiaye/ontologies/2023/7/CatastropheV2/" uri="file6%20copy.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="duplicate:http://www.semanticweb.org/mandiaye/ontologies/2023/7/CatastropheV2/" uri="file9.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="duplicate:http://www.semanticweb.org/mandiaye/ontologies/2023/7/CatastropheV2/" uri="file6.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="duplicate:http://www.semanticweb.org/mandiaye/ontologies/2023/7/CatastropheV2/" uri="file8.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="duplicate:http://www.semanticweb.org/mandiaye/ontologies/2023/7/CatastropheV2/" uri="Catastrophe.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1697536934948" name="http://www.semanticweb.org/mandiaye/ontologies/2023/7/untitled-ontology-87/" uri="file5.rdf"/>
+    </group>
+</catalog>

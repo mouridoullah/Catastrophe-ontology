@@ -1,0 +1,40 @@
+@prefix : <http://example.org/disaster-ontology#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+:Disaster rdf:type rdfs:Class .
+:NaturalDisaster rdf:type :Disaster .
+:TechnologicalDisaster rdf:type :Disaster .
+:Response rdf:type rdfs:Class .
+:Victim rdf:type rdfs:Class .
+
+:hasType rdf:type rdf:Property .
+:hasResponse rdf:type rdf:Property .
+:hasVictim rdf:type rdf:Property .
+
+:Earthquake rdf:type :NaturalDisaster .
+:Flood rdf:type :NaturalDisaster .
+:ChemicalSpill rdf:type :TechnologicalDisaster .
+
+:Earthquake :hasType "Seismic" .
+:Flood :hasType "Hydrological" .
+:ChemicalSpill :hasType "Chemical" .
+
+:SearchAndRescue rdf:type :Response .
+:MedicalAid rdf:type :Response .
+
+:John rdf:type :Victim .
+:Mary rdf:type :Victim .
+:David rdf:type :Victim .
+
+:earthquake1 rdf:type :Earthquake .
+:flood1 rdf:type :Flood .
+:chemicalSpill1 rdf:type :ChemicalSpill .
+
+:earthquake1 :hasResponse :SearchAndRescue .
+:flood1 :hasResponse :SearchAndRescue .
+:chemicalSpill1 :hasResponse :MedicalAid .
+
+:earthquake1 :hasVictim :John, :Mary .
+:flood1 :hasVictim :Mary, :David .
+:chemicalSpill1 :hasVictim :David .
